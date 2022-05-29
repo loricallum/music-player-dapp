@@ -27,7 +27,7 @@ class App extends Component {
                 >
                   <img src={logo} className="App-logo" alt="logo" />
                 </a>
-                <h1>Dapp University Starter Kit</h1>
+                <h1>Dapp University</h1>
                 <p>
                   Edit <code>src/components/App.js</code> and save to reload.
                 </p>
@@ -37,7 +37,7 @@ class App extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  LEARN BLOCKCHAIN <u><b>NOW! </b></u>
+                  Music on blockchain <u><b>NOW! </b></u>
                 </a>
               </div>
             </main>
